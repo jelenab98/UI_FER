@@ -6,7 +6,7 @@ Teme koje su obrađene u laboratorijskim vježbama:
   + drugi labos - automatsko zaključivanje primjenom rezolucijskog pravila
   + treći labos - stabla odluke
   
-Laboratory exercises from the course Artifficial Intelligence (UniZG-FER, 2019/2020)
+Laboratory exercises from the course Artificial Intelligence (UniZG-FER, 2019/2020)
 --
 Topics covered in the exercises:
   + Search space search (BFS, uniform cost, A*)
